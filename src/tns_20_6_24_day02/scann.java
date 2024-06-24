@@ -1,4 +1,4 @@
-package tns_20_6_24;
+package tns_20_6_24_day02;
 import java.util.Scanner;
 
 public class scann {

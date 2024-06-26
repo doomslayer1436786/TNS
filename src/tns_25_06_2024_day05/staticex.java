@@ -5,6 +5,6 @@ public class staticex {
 		String companyName = staticprograms.companyName;
 		System.out.println(companyName);
 		
-		staticprograms(
+		
 		}
 }
